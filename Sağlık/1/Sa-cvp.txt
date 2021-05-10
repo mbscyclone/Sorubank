@@ -1,6 +1,4 @@
 Sağlık/1
-Cevap Anahtarıı
-<
 s1-D.
 s2-C.
 s3-D.
@@ -26,4 +24,3 @@ s22-A.
 s23-C.
 s24-D.
 s25-A.
->
